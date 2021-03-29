@@ -6,7 +6,7 @@ Text parser is a mini project working on parsing different formats of files. it 
 steps to run the prjoect:
 
 - pip install -r requirements.txt 
-- python parser.py <format> <list_of_files>
+- python parser.py <targeted_format> <list_of_files>
 
 
 PS i couldn't provide incremental commits due to working through an offline enviroment.
