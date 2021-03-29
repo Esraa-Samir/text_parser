@@ -2,6 +2,7 @@
 
 
 Text parser is a mini project working on parsing different formats of files. it currently works on XML and CSV. however, project can be easily extended to support other formats.
+the project is buit using the factory design pattern providing a common interface to create parser for different formats.
 
 steps to run the prjoect:
 
